@@ -1,0 +1,58 @@
+{
+    "usuarios":[
+        {
+            "Nome": "Maria",
+            "Cargo": "Representante",
+            "Idade": 20,
+            "Social": {
+                "Facebook":"http://Facebook.com",
+                "Linkedin":"http://linkedin.com"
+            }
+        },
+        {
+            "Nome": "João",
+            "Cargo": "OPSII",
+            "Idade": 22,
+            "Social": {
+                "Facebook":"http://Facebook.com",
+                "Linkedin":"http://linkedin.com"
+            }
+        },
+        {
+            "Nome": "Pedro",
+            "Cargo": "OPSII",
+            "Idade": 24,
+            "Social": {
+                "Facebook":"http://Facebook.com",
+                "Linkedin":"http://linkedin.com"
+            }
+        },
+        {
+            "Nome": "Julia",
+            "Cargo": "Team Leader",
+            "Idade": 26,
+            "Social": {
+                "Facebook":"http://Facebook.com",
+                "Linkedin":"http://linkedin.com"
+            }
+        },
+        {
+            "Nome": "Fernando",
+            "Cargo": "Site Leader",
+            "Idade": 28,
+            "Social": {
+                "Facebook":"http://Facebook.com",
+                "Linkedin":"http://linkedin.com"
+            }
+        },
+        {
+            "Nome": "Luiz",
+            "Cargo": "Coordenador",
+            "Idade": 30,
+            "Social": {
+                "Facebook":"http://Facebook.com",
+                "Linkedin":"http://linkedin.com"
+            }
+        }
+    ]
+}
